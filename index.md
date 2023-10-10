@@ -3,3 +3,5 @@
 #### h4?
 
 this is an markdown test
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
